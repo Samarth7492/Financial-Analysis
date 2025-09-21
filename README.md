@@ -1,8 +1,8 @@
-# Amex Dataset Analysis
+#  Dataset Analysis
 
 ## Overview
 
-This project analyzes the Amex dataset, focusing on default prediction based on various financial and risk factors. The dataset contains information about different financial metrics, credit risk scores, acquisition channels, and default indicators for each customer.
+This project analyzes the amex dataset, focusing on default prediction based on various financial and risk factors. The dataset contains information about different financial metrics, credit risk scores, acquisition channels, and default indicators for each customer.
 
 ## Dataset Description
 
